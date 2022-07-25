@@ -1,9 +1,9 @@
 {
-    "ownerNumber": ["6285342106390@s.whatsapp.net","622150996855@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
-    "botName": "Haruka-Mdོ ",
-    "footer": "api.zeeoneofc.xyz",
+    "ownerNumber": ["6283141380608@s.whatsapp.net","622150996855@s.whatsapp.net"],
+    "ownerName": "RepaaaaaSxD",
+    "instagram" : "https://instagram.com/repassyahputra?igshid=YmMyMTA2M2Y= ",
+    "botName": "RepasBOT",
+    "footer": "RepasGanteng2022",
     "sessionName": "session",
     "pathimg": "./media/Haruka.jpg",
     "BotKey": "V12",
@@ -13,10 +13,10 @@
     "anticall": true,
     "autorespond": false,
     "autoblok": false,
-    "gamewaktu": 90,
-    "limitCount": 25,
+    "gamewaktu": 0,
+    "limitCount": 0,
     "gcount": {
-        "prem": 1000,
-        "user": 15
+        "prem": 0,
+        "user": 0
     }
 }
